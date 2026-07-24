@@ -1,0 +1,5 @@
+.tools/
+*.csv
+*.xlsx
+*.xls
+Thumbs.db
